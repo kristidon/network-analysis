@@ -311,7 +311,11 @@ sections:
 
 ```{r load-packages}
 # YOUR CODE HERE
-
+library(tidyverse)
+library(igraph)
+library(tidygraph)
+library(ggpraph)
+library(skimr)
 
 ```
 

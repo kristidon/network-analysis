@@ -264,7 +264,9 @@ packages:
 
 ```{r load-packages}
 # YOUR CODE HERE
-
+install.packages("tidygraph")
+install.packages("ggraph")
+install.packages("readxl")
 
 ```
 
